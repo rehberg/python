@@ -1,0 +1,32 @@
+-- INSERT statements created by makeTempsSQL
+
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:43', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:45', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:47', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:49', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:51', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:52', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:54', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:56', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:23:58', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:00', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:02', 24.625);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:03', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:05', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:07', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:09', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:11', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:13', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:14', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:16', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:18', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:20', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:22', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:24', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:26', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:28', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:30', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:32', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:34', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:35', 24.687);
+INSERT INTO temps (temptime, temp_c) VALUES ('2013-06-29 14:24:37', 24.687);
