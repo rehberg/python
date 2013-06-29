@@ -1,3 +1,12 @@
+"Python Projects"
+=================
+
+Mostly home-based projects and things built for courses I teach
+---------------------------------------------------------------
+
+
+Work in progress....
+
 This is my Python examples repo.  Feel free to grab stuff, but you probably shouldn't expect anything groundbreaking here.
 
 ===== TEMPERATURE =====
